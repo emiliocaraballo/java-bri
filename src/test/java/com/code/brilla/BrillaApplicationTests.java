@@ -1,0 +1,14 @@
+package com.code.brilla;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BrillaApplicationTests {
+
+	@Test
+	void contextLoads() {
+            System.out.println("Hola Mundo");
+	}
+
+}
